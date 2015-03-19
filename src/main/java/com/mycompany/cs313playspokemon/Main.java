@@ -1,9 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package com.mycompany.cs313playspokemon;
+/*package com.mycompany.cs313playspokemon;
 import java.awt.Robot;
 import java.io.BufferedReader;
 import java.io.File;
@@ -136,5 +131,5 @@ public class Main extends PircBot {
                 System.out.println("i am running");
 		//m.readinf();
 	}
-}
+}*/
 
